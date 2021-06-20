@@ -1,0 +1,28 @@
+{
+"users":[
+        {
+            "id": 1,
+            "name": "Intan",
+            "address": "Jakarta",
+            "age": 24
+        },
+        {
+            "id": 2,
+            "name": "Indah",
+            "address": "Garut",
+            "age": 24
+        },
+        {
+            "id": 3,
+            "name": "Upi",
+            "address": "Cirebon",
+            "age": 32
+        },
+        {
+            "id": 4,
+            "name": "Dini",
+            "address": "Bandung",
+            "age": 32
+        },
+    ]
+}
